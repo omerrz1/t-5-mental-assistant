@@ -1,4 +1,4 @@
-## My website https://www.imomer.net
+
 ## t5 mental assisstant ai model and api
 
 ## api Documentation
